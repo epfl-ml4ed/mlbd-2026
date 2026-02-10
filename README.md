@@ -12,4 +12,4 @@ We have done our best to document, refactor, and test the code before publicatio
 
 ## Spring 2026 Teaching Team
 - Professor Tanja Käser, [ML4ED Laboratory](https://www.epfl.ch/labs/ml4ed/)
-- TAs Marta Knežević and Seyed Parsa Neshaei
+- TAs Marta Knežević, Seyed Parsa Neshaei and Jiaxu Zhao
